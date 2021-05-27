@@ -1,0 +1,22 @@
+{
+  "name": "telegramnotif",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js && eslint index.js"
+  },
+  "keywords": [
+    "telegram",
+    "notif",
+    "push notifications"
+  ],
+  "author": "mirsella",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "eslint-plugin-node": "^11.1.0"
+  }
+}
